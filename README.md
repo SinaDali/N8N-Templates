@@ -16,7 +16,7 @@ It allows you to connect different apps and services with custom workflows — s
 - These workflows are provided as-is, you can modify them to fit your use case.
 - Feel free to explore, adapt, and contribute if you’d like to extend them.
 
-- ## 📜 License
+## 📜 License
 This project is licensed under the MIT License.  
 Copyright (c) 2025 Sina Salmasi
 
